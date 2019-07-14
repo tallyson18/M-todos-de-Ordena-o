@@ -1,19 +1,19 @@
-Esta pasta contém arquivos com trechos de código fonte responsáveis por realizar diversos métodos de ordenação e pesquisa.
-Contém funções e estruturas capazes de receber e processar informações de determinada forma, restando ao usuário desenvolver o main.
-Os seguintes códigos foram desenvolvidos durante o 3º Período de Ciência da Computação.
+Esta pasta contÃ©m arquivos com trechos de cÃ³digo fonte responsÃ¡veis por realizar diversos mÃ©todos de ordenaÃ§Ã£o e pesquisa.
+ContÃ©m funÃ§Ãµes e estruturas capazes de receber e processar informaÃ§Ãµes de determinada forma, restando ao usuÃ¡rio desenvolver o main.
+Os seguintes cÃ³digos foram desenvolvidos durante o 3Âº PerÃ­odo de CiÃªncia da ComputaÃ§Ã£o.
 
-Funções e códigos capazes de realizar os seguintes métodos de Ordenação:
-Insertion Sort
-Selection Sort
-Bubble Sort 
-Shell Sort
-Merge Sort
-Radix Sort (com números)
-Radix Sort (com palavras)
-Quick Sort
+FunÃ§Ãµes e cÃ³digos capazes de realizar os seguintes mÃ©todos de OrdenaÃ§Ã£o:
+Insertion Sort,
+Selection Sort,
+Bubble Sort ,
+Shell Sort,
+Merge Sort,
+Radix Sort (com nÃºmeros),
+Radix Sort (com palavras),
+Quick Sort,
 Heap Sort
 
-Há também um arquivo com uma implementação ainda em andamento, porém semifuncional do método de pesquisa utilizando:
-Árvores TRY
+HÃ¡ tambÃ©m um arquivo com uma implementaÃ§Ã£o ainda em andamento, porÃ©m semifuncional do mÃ©todo de pesquisa utilizando:
+Ãrvores TRY
 
-Todas as funções e estruturas para os métodos de ordenação se encontram no arquivo metodos-de-ordenacao.c e as estrutruras e escopos criados encontram-se no arquivo metodos-de-ordenacao.h 
+Todas as funÃ§Ãµes e estruturas para os mÃ©todos de ordenaÃ§Ã£o se encontram no arquivo metodos-de-ordenacao.c e as estrutruras e escopos criados encontram-se no arquivo metodos-de-ordenacao.h 
